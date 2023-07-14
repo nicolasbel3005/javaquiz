@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1, h2 {
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#question-screen ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#end-screen label {
+  display: block;
+  margin-top: 20px;
+}
+
+#end-screen input {
+  margin-top: 5px;
+}
